@@ -35,27 +35,3 @@ Welcome to my GitHub profile. I'm a passionate developer exploring backend and f
 | `react-ui-playground` | Exploring React fundamentals               | React, JavaScript  |
 | `algorithms-lab`| Practice problems and data structure walkthroughs | Java, DSA          |
 
-## 🧠 Learning Path
-
-```mermaid
-graph TD
-  A[Java Basics] --> B[OOP Concepts]
-  B --> C[Spring Boot]
-  C --> D[REST API + MySQL]
-  D --> E[React Frontend]
-  E --> F[Full Stack Project]
-
-<!--
-**Merlinmsl/Merlinmsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
